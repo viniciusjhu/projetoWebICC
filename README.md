@@ -9,4 +9,4 @@ O site explora os fundamentos do Git e GitHub, proporcionando aos usuários uma 
 - HTML: Estruturação do conteúdo da web.
 - CSS: Estilização do site para uma melhor experiência do usuário
 
-[Domine Git e Git HUB - Site](https://domine-git-github.vercel.app/ "Acesse o nosso site")
+[Acesse o nosso site](https://domine-git-github.vercel.app/ "Acesse o nosso site")
